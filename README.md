@@ -1,0 +1,2 @@
+# YYSwiftTest
+swift test
